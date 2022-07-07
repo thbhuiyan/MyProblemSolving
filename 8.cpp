@@ -1,4 +1,10 @@
-//Write a C program to check whether
+////Write a C program to check whether
+//What is leap year formula?
+//Check if the number is evenly divisible by 400 to confirm a leap year.
+//If a year is divisible by 100, but not 400, then it is not a leap year.
+//If a year is divisible by both 100 and 400, then it is a leap year.
+//For example, 1900 is evenly divisible by 100,
+//but not 400 since it gives you a result of 4.75.
 #include<iostream>
 using namespace std;
 int main(){
