@@ -1,4 +1,4 @@
-////Write a C program to check whether
+//8. Write a C program to find whether a given year is a leap year or not.
 //What is leap year formula?
 //Check if the number is evenly divisible by 400 to confirm a leap year.
 //If a year is divisible by 100, but not 400, then it is not a leap year.

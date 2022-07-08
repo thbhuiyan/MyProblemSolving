@@ -1,4 +1,4 @@
-//Write a C program to check whether
+//7. Write a C program to check whether a triangle is Equilateral, Isosceles, or Scalene.
 #include<iostream>
 using namespace std;
 int main(){

@@ -1,3 +1,4 @@
+//6. Write a C program to find the third maximum between four numbers.
 #include<stdio.h>
 int main()
 {

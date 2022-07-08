@@ -1,3 +1,4 @@
+//5. Given two numbers N and X. Find N is divisible by X or not.
 #include<stdio.h>
 int main()
 {

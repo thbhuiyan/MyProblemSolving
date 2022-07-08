@@ -1,4 +1,4 @@
-//Write a C program to find the maximum between two numbers.
+//1. Write a C program to find the maximum between two numbers.
 #include<stdio.h>
 int main(){
     int x,y;
