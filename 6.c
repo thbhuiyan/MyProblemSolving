@@ -30,5 +30,5 @@ int main()
     {
         printf("%d ",arr[i]);
     }
-    printf("\n%d is the 3rd most maximum in the 4 numbers! ",arr[1]);
+    printf("\n%d is the 3rd most maximum in the 4 numbers! ",arr[2]);
 }
