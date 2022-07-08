@@ -4,12 +4,10 @@ int main(){
     int x,y,z;
     printf("Enter 3 digits: ");
     scanf("%d %d %d",&x,&y,&z);
-
-    printf("\n%d\n",z-y);
-    if(y>x && z>=y){
+    if(y>=x && z>=x){
         printf("%d is the minimum number!",x);
     }
-    else if(x>=z && z>y){
+    else if(x>=z && z>=y){
         printf("%d is the minimum number!",y);
     }
     else{
