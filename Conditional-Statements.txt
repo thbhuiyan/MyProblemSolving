@@ -8,15 +8,15 @@ http://cpbook.subeen.com/2011/08/conditional-logic.html
 https://www.geeksforgeeks.org/conditional-or-ternary-operator-in-c-c/
 
 Tasks problems: 
-1. Write a C program to find the maximum between two numbers.
-2. Write a C program to find a minimum between three numbers.
-3. Write a C program to check whether a number is negative, positive, or zero.
-4. Write a C program to check whether a given integer is odd or even.
-5. Given two numbers N and X. Find N is divisible by X or not.
-6. Write a C program to find the third maximum between four numbers.
-7. Write a C program to check whether a triangle is Equilateral, Isosceles, or Scalene.
+1. Write a C program to find the maximum between two numbers..
+2. Write a C program to find a minimum between three numbers..
+3. Write a C program to check whether a number is negative, positive, or zero..
+4. Write a C program to check whether a given integer is odd or even..
+5. Given two numbers N and X. Find N is divisible by X or not..
+6. Write a C program to find the third maximum between four numbers..
+7. Write a C program to check whether a triangle is Equilateral, Isosceles, or Scalene..
 8. Write a C program to find whether a given year is a leap year or not.
-9. Find the absolute difference between the two numbers.
+9. Find the absolute difference between the two numbers..
 10. A bus can carry maximum K person at a time. How many busses are needed to carry N person?
 11. Given the coordinate of two points p1(x1,y1) and p2(x2,y2). Find which point is closest to the center (0,0).
 12. Given a character C. Determine the character is an uppercase alphabet or lowercase alphabet or a digit.
