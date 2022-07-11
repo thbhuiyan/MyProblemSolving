@@ -2,7 +2,6 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
-
 int main(){
 	int x,y,temp,i;
 	while(i!=6){
@@ -13,4 +12,5 @@ int main(){
 	else temp=abs(y-x);
 	cout<<temp;
 	i++;}
+	return 0;
 }
