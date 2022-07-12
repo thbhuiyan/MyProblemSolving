@@ -18,7 +18,7 @@ int main()
             cout<<c<<" is UPPERCASE alphabet! ";
         }
         else
-            cout<<(int)c<<" is a digit ! ";
+            cout<<c<<" is a digit ! ";
         i++;
     }
     return 0;
