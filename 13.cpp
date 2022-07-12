@@ -9,7 +9,7 @@ int main()
     {
         cout<<"\n\nEnter character: ";
         cin>>c;
-        if(c==('A'||'a'||'E'||'e'||'I'||'i'||'O'||'o'||'U'||'u'))
+        if(c=='A'||c=='a'||c=='E'||c=='e'||c=='I'||c=='i'||c=='O'||c=='o'||c=='U'||c=='u')
         {
             cout<<c<<" is a VOWEL!\n";
         }
