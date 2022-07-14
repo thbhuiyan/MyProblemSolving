@@ -4,8 +4,7 @@
 using namespace std;
 int main()
 {
-    int x1,y1,x2,y2,temp;
-    double n,c,temp;
+    int i=0,x1,y1,x2,y2,temp;
     while(i!=6)
     {
         cout<<"Enter 1st pair values: ";
